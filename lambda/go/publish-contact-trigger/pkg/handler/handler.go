@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/aws/aws-lambda-go/events"
-	"github.com/ezequiel-uala/contacts/lambda/go/publish-contact-trigger/dto"
+	"github.com/ezequiel-uala/contacts/lambda/go/publish-contact-trigger/pkg/dto"
 	"github.com/ezequiel-uala/contacts/lambda/go/publish-contact-trigger/pkg/models"
 )
 
